@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/monster-searchbox-with-react/static/css/main.856092d4.chunk.css",
+    "main.js": "/monster-searchbox-with-react/static/js/main.1e06ef6a.chunk.js",
+    "main.js.map": "/monster-searchbox-with-react/static/js/main.1e06ef6a.chunk.js.map",
+    "runtime-main.js": "/monster-searchbox-with-react/static/js/runtime-main.8254694f.js",
+    "runtime-main.js.map": "/monster-searchbox-with-react/static/js/runtime-main.8254694f.js.map",
+    "static/js/2.7db90bec.chunk.js": "/monster-searchbox-with-react/static/js/2.7db90bec.chunk.js",
+    "static/js/2.7db90bec.chunk.js.map": "/monster-searchbox-with-react/static/js/2.7db90bec.chunk.js.map",
+    "index.html": "/monster-searchbox-with-react/index.html",
+    "precache-manifest.d29cbc8c1b2bb110a72ad3997fff9505.js": "/monster-searchbox-with-react/precache-manifest.d29cbc8c1b2bb110a72ad3997fff9505.js",
+    "service-worker.js": "/monster-searchbox-with-react/service-worker.js",
+    "static/css/main.856092d4.chunk.css.map": "/monster-searchbox-with-react/static/css/main.856092d4.chunk.css.map",
+    "static/js/2.7db90bec.chunk.js.LICENSE": "/monster-searchbox-with-react/static/js/2.7db90bec.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8254694f.js",
+    "static/js/2.7db90bec.chunk.js",
+    "static/css/main.856092d4.chunk.css",
+    "static/js/main.1e06ef6a.chunk.js"
+  ]
+}
